@@ -1,0 +1,16 @@
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\KaiHelper.exe
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\KaiHelper.pdb
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\LeagueSharp.Common.dll
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\LeagueSharp.dll
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\SharpDX.Direct3D9.dll
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\SharpDX.dll
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\SharpDX.Toolkit.dll
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\SharpDX.Toolkit.Graphics.dll
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\LeagueSharp.xml
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\SharpDX.Toolkit.xml
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\bin\Release\SharpDX.Toolkit.Graphics.xml
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\obj\x86\Debug\KaiHelper.csprojResolveAssemblyReference.cache
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\obj\x86\Debug\KaiHelper.Properties.Resources.resources
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\obj\x86\Debug\KaiHelper.csproj.GenerateResource.Cache
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\obj\x86\Debug\KaiHelper.exe
+D:\Users\HoangThien\Documents\Visual Studio 2010\Projects\KaiHelper\KaiHelper\obj\x86\Debug\KaiHelper.pdb
